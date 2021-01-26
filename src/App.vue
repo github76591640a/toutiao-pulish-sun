@@ -5,7 +5,9 @@
 </template>
 <script>
 export default {
-  name: 'App'
+  name: 'App',
+  methods: {
+  }
 }
 </script>
 <style lang="scss">
